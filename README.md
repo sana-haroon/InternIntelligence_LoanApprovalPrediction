@@ -19,11 +19,13 @@ The goal of this project is to build a **machine learning model** that predicts 
 ### ▶️ How to Run Locally
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/InternIntelligence_LoanApprovalPrediction.git
+   git clone https://github.com/sana-haroon/InternIntelligence_LoanApprovalPrediction.git
    cd InternIntelligence_LoanApprovalPrediction
 2. Install dependencies:
+    ```bash
      pip install -r requirements.txt
 3. Run the Streamlit app:
+    ```bash
     streamlit run app.py
 4.Open the link shown in the terminal (usually http://localhost:8501) and use the web app to test loan approvals.
 📽️ Internship Requirement
